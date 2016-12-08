@@ -1,0 +1,12 @@
+{
+  "name": "steam-manager",
+  "version": "1.0.0",
+  "description": "An unofficial utility to manage steam libraries/etc. across multiple locations (e.g. moving, saves, etc.)",
+  "main": "index.js",
+  "author": "Justin Ting <justingling@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nw": "^0.19.0",
+    "nwjs": "^1.4.3"
+  }
+}
